@@ -1,0 +1,12 @@
+{
+    "base": {
+        "prefix": "base",
+        "description": "adds the basic of discord.js",
+        "body": [
+            "const Discord = require('discord.js')",
+            "const client = new Discord.Client // you can change this later",
+            "",
+            "//... use baseSec"
+        ]
+    }
+}
